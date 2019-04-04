@@ -67,3 +67,9 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+
+#Project gitignore
+src/graphql/mutations/product.js
+src/graphql/querries/user.js
+src/components/GetDeletedUser.js
